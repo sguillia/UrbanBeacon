@@ -1,4 +1,6 @@
 # UrbanBeacon
-#### Hot'n'cold treasure hunting, or a complete electronics project
+#### Hot'n'cold treasure hunting...
 
-Coming soon
+... or a complete electronics project
+
+... coming soon
