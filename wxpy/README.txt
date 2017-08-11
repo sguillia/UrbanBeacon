@@ -1,6 +1,6 @@
 A GUI interface to flash the waypoints from Google maps to the UrbanBeacon device
 
-This was my first project in Python. I haven't documented it at the time.
+This was my second project in Python. I haven't documented it at the time.
 
 Pictures to come. The program uses wxpython library.
 
