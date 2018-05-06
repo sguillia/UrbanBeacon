@@ -8,6 +8,7 @@
 ![img](PCBv1_route.png)
 ![img](leds.png)
 ![img](pic32.png)
+![img](boitier.jpg)
 ![img](labelec.jpg)
 
 ####... coming soon
